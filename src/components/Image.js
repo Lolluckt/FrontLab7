@@ -22,7 +22,7 @@ function Image() {
                 <a href="https://chernigiv-rada.gov.ua/" target="_blank" rel="noopener noreferrer">
                     <img
                         id="chernihiv-image"
-                        src="https://lolluckt.github.io/FrontLab7/images/Cherniviv.jpg"
+                        src="https://lolluckt.github.io/FrontLab7/images/Chernihiv.jpg"
                         alt="Чернігів"
                         width={imageWidth}
                     />
