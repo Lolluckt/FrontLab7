@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FrontLab7/static/css/main.b00248f1.css",
-    "main.js": "/FrontLab7/static/js/main.92b6ca81.js",
+    "main.js": "/FrontLab7/static/js/main.bbbb839f.js",
     "static/js/488.9c92ff38.chunk.js": "/FrontLab7/static/js/488.9c92ff38.chunk.js",
     "index.html": "/FrontLab7/index.html",
     "main.b00248f1.css.map": "/FrontLab7/static/css/main.b00248f1.css.map",
-    "main.92b6ca81.js.map": "/FrontLab7/static/js/main.92b6ca81.js.map",
+    "main.bbbb839f.js.map": "/FrontLab7/static/js/main.bbbb839f.js.map",
     "488.9c92ff38.chunk.js.map": "/FrontLab7/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b00248f1.css",
-    "static/js/main.92b6ca81.js"
+    "static/js/main.bbbb839f.js"
   ]
 }
