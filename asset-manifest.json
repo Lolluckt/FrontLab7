@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrontLab7/static/css/main.b00248f1.css",
+    "main.js": "/FrontLab7/static/js/main.83649605.js",
+    "static/js/488.9c92ff38.chunk.js": "/FrontLab7/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/FrontLab7/index.html",
+    "main.b00248f1.css.map": "/FrontLab7/static/css/main.b00248f1.css.map",
+    "main.83649605.js.map": "/FrontLab7/static/js/main.83649605.js.map",
+    "488.9c92ff38.chunk.js.map": "/FrontLab7/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b00248f1.css",
+    "static/js/main.83649605.js"
+  ]
+}
