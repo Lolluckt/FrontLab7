@@ -29,12 +29,12 @@ button {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr)); /* Гибкие столбцы */
-  gap: 10px; /* Уменьшенные отступы */
-  justify-content: center; /* Центрирование */
-  width: 100%; /* Убедитесь, что галерея занимает всю ширину */
-  max-width: 1200px; /* Максимальная ширина для ограничения */
-  margin: 0 auto; /* Выравнивание по центру */
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  justify-content: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto; 
 }
 
 .goods-card {
@@ -53,7 +53,6 @@ button {
   box-shadow: 15px 15px 30px #d1d1d1, -15px -15px 30px #ffffff;
 }
 
-/* Изображение карточки */
 .goods-card-image img {
   width: 100%;
   height: auto;
@@ -66,7 +65,6 @@ button {
   opacity: 0.9;
 }
 
-/* Название товара */
 .goods-card-title {
   font-size: 18px;
   font-weight: bold;
@@ -75,14 +73,12 @@ button {
   text-transform: uppercase;
 }
 
-/* Цена товара */
 .goods-card-price {
   font-size: 16px;
   color: #777777;
   font-weight: 600;
 }
 
-/* Декоративные элементы */
 .goods-card::before {
   content: "";
   position: absolute;
